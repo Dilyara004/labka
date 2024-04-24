@@ -1,5 +1,5 @@
 import tkinter as tk
-#
+#dilyara_shaimerden
 def increment_counter():
     global counter
     counter += 1
